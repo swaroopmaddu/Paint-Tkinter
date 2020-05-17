@@ -35,7 +35,7 @@ Paint application using tkinter in Python 3 with lot of options.
 # Usage
 
     
-    * git clone https://github.com/swaroopmaddu/Paint-Tkinter.git pyscrapper
+    * git clone https://github.com/swaroopmaddu/Paint-Tkinter.git
 
     * virtualenv -p python3 Paint-Tkinter/
     
