@@ -1,7 +1,8 @@
 # ReviewScrapper
 
 Paint application using tkinter in Python 3 with lot of options.
-    Available options
+
+'''Available options
                 1. Tools
                     * Pen
                         - Custom Size
@@ -17,8 +18,7 @@ Paint application using tkinter in Python 3 with lot of options.
                 2. Image
                     * You can add image to Paint.
                     * You can open image to Paint.
-                    * You can Save image to desired location.
-                    
+                    * You can Save image to desired location.'''                    
 
 <p align="center">
   <img src="ss.png" height="400" width="712" />
