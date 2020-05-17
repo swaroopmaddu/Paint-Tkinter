@@ -72,7 +72,7 @@ pexpect==4.6.0
 Pillow==7.0.0
 powerline-status==2.7
 protobuf==3.6.1
-psutil==5.5.1
+psutil==5.6.6
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycairo==1.16.2
